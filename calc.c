@@ -5,6 +5,7 @@ int main()
 	printf("sum of two numbers is %d,%d",&a,&b);
 	printf("difference of two numbers is %d,%d",&a,&b);
 	printf("product of two numbers is %d,%d",&a,&b);
+	printf("quotient of two numbers is %d,%d",&a,&b);
 	return 0;
 
 }
